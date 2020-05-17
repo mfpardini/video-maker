@@ -17,6 +17,15 @@
   },
   "homepage": "https://github.com/mfpardini/video-maker#readme",
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "algorithmia": "^0.3.10",
+    "ibm-watson": "^5.5.0",
+    "readline-sync": "^1.4.10",
+    "sbd": "^1.0.18"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.2.2",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.0.0",
+    "typescript": "^3.9.2"
   }
 }
